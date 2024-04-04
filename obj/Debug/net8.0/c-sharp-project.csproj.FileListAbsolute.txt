@@ -1,0 +1,15 @@
+/home/devnull/Documents/code/github/c-sharp-project/bin/Debug/net8.0/c-sharp-project
+/home/devnull/Documents/code/github/c-sharp-project/bin/Debug/net8.0/c-sharp-project.deps.json
+/home/devnull/Documents/code/github/c-sharp-project/bin/Debug/net8.0/c-sharp-project.runtimeconfig.json
+/home/devnull/Documents/code/github/c-sharp-project/bin/Debug/net8.0/c-sharp-project.dll
+/home/devnull/Documents/code/github/c-sharp-project/bin/Debug/net8.0/c-sharp-project.pdb
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.AssemblyInfoInputs.cache
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.AssemblyInfo.cs
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.csproj.CoreCompileInputs.cache
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.sourcelink.json
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.dll
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/refint/c-sharp-project.dll
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.pdb
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/c-sharp-project.genruntimeconfig.cache
+/home/devnull/Documents/code/github/c-sharp-project/obj/Debug/net8.0/ref/c-sharp-project.dll
